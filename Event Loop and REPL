@@ -1,0 +1,5 @@
+Event Loop:
+The event loop is a key concept in Node.js that enables it to handle asynchronous I/O operations efficiently. It is a mechanism that allows Node.js to perform I/O operations without blocking the main thread of execution.
+
+REPL :
+REPL stands for Read-Eval-Print Loop. It is an interactive command-line interface that allows you to enter JavaScript code and see the results immediately. In Node.js, you can access the REPL by typing "node" in the terminal.
